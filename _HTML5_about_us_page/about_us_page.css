@@ -1,0 +1,316 @@
+/*
+	@name about_us_page
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 1024px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_about_us_page_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+}
+
+#_bg__about_us_page_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1024px;
+	background:rgba(222.23,141.05,250.75,1);
+}
+
+
+#rectangle_28 {
+	top: 179px;
+	left: 165px;
+	width: 338px;
+	height: 385px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	background:rgba(179.27,0,242.25,1);
+}
+
+
+#rectangle_34 {
+	top: 179px;
+	left: 551px;
+	width: 338px;
+	height: 385px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	background:rgba(179.27,0,242.25,1);
+}
+
+
+#rectangle_36 {
+	top: 604px;
+	left: 358px;
+	width: 338px;
+	height: 385px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	background:rgba(179.27,0,242.25,1);
+}
+
+
+#rectangle_35 {
+	top: 179px;
+	left: 937px;
+	width: 338px;
+	height: 385px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	background:rgba(179.27,0,242.25,1);
+}
+
+
+#rectangle_37 {
+	top: 604px;
+	left: 744px;
+	width: 338px;
+	height: 385px;
+	-ms-border-radius: 35px;
+	-o-border-radius: 35px;
+	-moz-border-radius: 35px;
+	-webkit-border-radius: 35px;
+	border-radius: 35px;
+	background:rgba(179.27,0,242.25,1);
+}
+
+
+#ellipse_2 {
+	top: 212px;
+	left: 225px;
+	width: 218px;
+	height: 245px;
+	-ms-border-radius: 109px / 122.5px;
+	-o-border-radius: 109px / 122.5px;
+	-moz-border-radius: 109px / 122.5px;
+	-webkit-border-radius: 109px / 122.5px;
+	border-radius: 109px / 122.5px;
+	background:rgba(110.08,0,148.75,1);
+}
+
+
+#ellipse_3 {
+	top: 212px;
+	left: 611px;
+	width: 218px;
+	height: 245px;
+	-ms-border-radius: 109px / 122.5px;
+	-o-border-radius: 109px / 122.5px;
+	-moz-border-radius: 109px / 122.5px;
+	-webkit-border-radius: 109px / 122.5px;
+	border-radius: 109px / 122.5px;
+	background:rgba(110.08,0,148.75,1);
+}
+
+
+#ellipse_5 {
+	top: 637px;
+	left: 418px;
+	width: 218px;
+	height: 245px;
+	-ms-border-radius: 109px / 122.5px;
+	-o-border-radius: 109px / 122.5px;
+	-moz-border-radius: 109px / 122.5px;
+	-webkit-border-radius: 109px / 122.5px;
+	border-radius: 109px / 122.5px;
+	background:rgba(110.08,0,148.75,1);
+}
+
+
+#ellipse_4 {
+	top: 212px;
+	left: 997px;
+	width: 218px;
+	height: 245px;
+	-ms-border-radius: 109px / 122.5px;
+	-o-border-radius: 109px / 122.5px;
+	-moz-border-radius: 109px / 122.5px;
+	-webkit-border-radius: 109px / 122.5px;
+	border-radius: 109px / 122.5px;
+	background:rgba(110.08,0,148.75,1);
+}
+
+
+#ellipse_6 {
+	top: 637px;
+	left: 804px;
+	width: 218px;
+	height: 245px;
+	-ms-border-radius: 109px / 122.5px;
+	-o-border-radius: 109px / 122.5px;
+	-moz-border-radius: 109px / 122.5px;
+	-webkit-border-radius: 109px / 122.5px;
+	border-radius: 109px / 122.5px;
+	background:rgba(110.08,0,148.75,1);
+}
+
+
+#profile_pic_1 {
+	top: 221px;
+	left: 237px;
+	width: 196px;
+	height: 228px;
+}
+
+
+#karthik_1 {
+	top: 222px;
+	left: 623px;
+	width: 194.19px;
+	height: 228px;
+}
+
+
+#rectangle_33 {
+	top: 37px;
+	left: 242px;
+	width: 956px;
+	height: 100px;
+	-ms-border-radius: 33px;
+	-o-border-radius: 33px;
+	-moz-border-radius: 33px;
+	-webkit-border-radius: 33px;
+	border-radius: 33px;
+	-ms-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-o-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-webkit-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	-moz-box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	box-shadow:inset 0px 4px 4px 1px rgba(0,0,0,0.25);
+	background:rgba(217,217,217,1);
+}
+
+
+#team_sudo_hack {
+	top: 41px;
+	left: 325px;
+	width: 978px;
+	height: 155px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 82px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#sriram_parisa {
+	top: 482px;
+	left: 205px;
+	width: 295.5px;
+	height: 57.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 31px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#karthik_kotha {
+	top: 482px;
+	left: 591px;
+	width: 295.5px;
+	height: 57.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 31px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#abdul_salam_khan {
+	top: 901px;
+	left: 365px;
+	width: 394.5px;
+	height: 57.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 31px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#lekha_sri {
+	top: 482px;
+	left: 1018px;
+	width: 214.5px;
+	height: 57.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 31px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#nikhil_teja {
+	top: 901px;
+	left: 828px;
+	width: 249.5px;
+	height: 57.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 31px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#nikhil_1 {
+	top: 646px;
+	left: 821px;
+	width: 189px;
+	height: 228px;
+}
+
+
+#abdul_1 {
+	top: 646px;
+	left: 431px;
+	width: 189.72px;
+	height: 228px;
+}
+
+
+#lekss_1 {
+	top: 222px;
+	left: 1013px;
+	width: 187px;
+	height: 228px;
+}
+
+
+
+/* Add your custom CSS here */
